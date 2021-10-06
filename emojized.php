@@ -4,7 +4,7 @@ Plugin Name: Emojized
 Plugin URI: http://wordpress.org/plugins/emojized/
 Description: This is a plugin which is making emojis automatically
 Author: Emojized
-Version: 0.2
+Version: 0.3
 Author URI: http://emojized.com
 Licence: GPL2
 */
