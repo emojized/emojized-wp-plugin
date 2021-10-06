@@ -1,0 +1,1 @@
+# emojized-wp-plugin
